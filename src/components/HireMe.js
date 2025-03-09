@@ -13,7 +13,7 @@ const HireMe = () => {
                 text-light shadow-md border-solid border-dark w-20 h-20 rounded-full
                 font-semibold hover:bg-light hover:text-dark dark:bg-light dark:text-dark dark:border-light
                     hover:dark:bg-dark hover:dark:text-light hover:dark:border-dark
-                '>I'm a</Link>
+                '>I’m a</Link>
             </div>
         </div>
     )

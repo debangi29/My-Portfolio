@@ -50,7 +50,7 @@ const about = () => {
                     <div className=' grid w-full grid-cols-8 gap-16 sm:gap-8'>
                         <div className=' col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                             <h2 className=' mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
-                            <p className=' font-medium'>I'm passionate about software development, problem-solving, and emerging technologies, with experience in frontend and backend development. I love building interactive web applications using modern frameworks and developing scalable systems.</p>
+                            <p className=' font-medium'>I am passionate about software development, problem-solving, and emerging technologies, with experience in frontend and backend development. I love building interactive web applications using modern frameworks and developing scalable systems.</p>
                             <p className=' font-medium my-4'>I enjoy working with React.js, Next.js, and Tailwind CSS to craft seamless user experiences, while also exploring backend development, APIs, and cloud computing to build robust applications. I'm actively learning blockchain and Bitcoin technologies, diving deeper into decentralized systems and their real-world applications. My strong foundation in competitive programming helps me approach challenges analytically and optimize solutions effectively.</p>
                         </div>
                         <div className=' col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light md:order-1 md:col-span-8'>
